@@ -1,6 +1,8 @@
 ### Hi there 👋, My name is Genre
 
-(<iframe src="https://giphy.com/embed/3o7btPCcdNniyf0ArS" width="480" height="268" frameBorder="0"  allowFullScreen></iframe>)
+
+
+![giphy](https://user-images.githubusercontent.com/121885892/213490602-8e75e379-d49a-49d4-9693-2cc0886ceb40.gif)
 
 
 Skills: JS / HTML / CSS
